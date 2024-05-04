@@ -1,4 +1,4 @@
-#Assignment Instructions
+# Assignment Instructions
 General Idea
 Super simple idea behind this week's assignment: use the restaurant menu REST API to create a master/detail view pair.
 
